@@ -1,6 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-sy" viewBox="0 0 512 512">
-  <path fill="#000001" d="M0 0h512v512H0Z"/>
-  <path fill="#fff" d="M0 0h512v341.3H0Z"/>
-  <path fill="#ce1126" d="M0 0h512v170.7H0Z"/>
-  <path fill="#007a3d" d="M86.4 320 128 192l41.6 128-108.9-79.1h134.6M342.4 320 384 192l41.6 128-108.9-79.1h134.6"/>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_701_2598)">
+<rect width="512" height="512" fill="white"/>
+<g clip-path="url(#clip1_701_2598)">
+<path d="M-128 0H640V512H-128V0Z" fill="black"/>
+<path d="M-128 0H640V341.333H-128V0Z" fill="white"/>
+<path d="M-128 0H640V170.667H-128V0Z" fill="#007A3D"/>
+<path d="M22.4084 320L63.9982 192L105.588 320L-3.29736 240.892H131.29M406.405 320L447.995 192L489.585 320L380.699 240.892H515.287M214.402 320L255.991 192L297.581 320L188.696 240.892H323.284" fill="#CE1126"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_701_2598">
+<rect width="512" height="512" fill="white"/>
+</clipPath>
+<clipPath id="clip1_701_2598">
+<rect width="768" height="512" fill="white" transform="translate(-128)"/>
+</clipPath>
+</defs>
 </svg>
